@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-ouaarab&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-ouaarab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassine-ouaarab" alt="yassine-ouaarab" /></a> </p>
-
 - 📫 How to reach me **yassinouaarab5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-ouaarab&show_icons=true&locale=en" alt="yassine-ouaarab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-ouaarab&" alt="yassine-ouaarab" /></p>
-
